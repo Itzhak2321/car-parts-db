@@ -1,1 +1,8 @@
-
+{
+  "model": "Toyota Corolla 2018",
+  "parts": [
+    {"name": "Oil Filter", "pn": "90915-YZZN1", "target_price": 50},
+    {"name": "Air Filter", "pn": "17801-0T030", "target_price": 80},
+    {"name": "Spark Plug", "pn": "90919-01253", "target_price": 40}
+  ]
+}
